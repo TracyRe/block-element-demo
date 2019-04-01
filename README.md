@@ -11,6 +11,7 @@ Webpages created using the terminal and Atom for Epicodus class. The purpose is 
 ## Setup/Installation Requirements
 
 * Clone from https://github.com/TracyRe/block-element-demo.git
+* View at https://tracyre.github.io/block-element-demo/
 * Open in browser of your choice
 * Edit .html files as desired
 
